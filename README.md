@@ -1,10 +1,11 @@
 <p align="center"> 
   <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" border-radius20 />
 </p>
+
 <p align="center"> 
 <h3 align="center">Hellow my name:- Sahand 👋  </h1>
 <h3 align="center" dir="rtl"> Developer </h3>
-
+</p>
 
 
 
@@ -16,7 +17,7 @@
 
 
 <br>
-<h3 align="right"><b>my skills</b></h3>
+<h3 align="left" ><b>my skills</b></h3>
 
 
 
@@ -37,4 +38,4 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=ffffff&labelColor=9C75D5)
 ![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
-</p>
+
