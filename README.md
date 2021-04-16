@@ -1,9 +1,10 @@
 <p align="center"> 
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" />
-
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" border-radius20 />
+</p>
+<p align="center"> 
 <h3 align="center">Hellow my name:- Sahand 👋  </h1>
 <h3 align="center" dir="rtl"> Developer </h3>
-
+</p>
 
 
 
