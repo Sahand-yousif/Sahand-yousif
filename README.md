@@ -1,16 +1,9 @@
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+  <img src="<a href='https://www.freepik.com/vectors/digital'>Digital vector created by freepik - www.freepik.com</a>" width="400" />
 
-<h3 align="center"> 👋 Hellow my name:- Sahand</h1>
+<h3 align="center">Hellow my name:- Sahand 👋  </h1>
 <h3 align="center" dir="rtl"> Developer </h3>
 
-
-
-
-### Connect with me:
-
-<a href="https://fb.com/codenashwan" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
-<a href="https://wa.me/07704695176" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-43-189795.png" height="22" width="22" /></a>
 
 <h3 align="right"><b>my skills</b></h3>
 
