@@ -15,8 +15,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![gethalfmoon](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=ffffff&labelColor=458BFF)
+
+
 
 
 
@@ -26,4 +26,4 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=ffffff&labelColor=9C75D5)
 ![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
-![android studio](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
+
