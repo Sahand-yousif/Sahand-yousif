@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" border-radius20 />
+  <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="400" border-radius: 25px />
 </p>
 
 <p align="center"> 
